@@ -9,7 +9,7 @@ Brief Overview:
 - Optimized with Outliers Removed: Models tuned after removing outliers, showing the impact of noise reduction on performance.
 - Optimized with Outliers Removed Class Balanced: Outlier removed models with class imbalance handling applied.
 
-The full results compilation across all eight experiments and all four models is available in the TitanicClassificationReport Excel file.
+The full results compilation across all eight experiments is available in the TitanicClassificationReport Excel file.
 
 Method:
 - Studied correlation between inputs and output to validate feature relevance.
